@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "204425",
+      "name": "对话",
+      "font_class": "icon",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "1224783",
+      "name": "下",
+      "font_class": "xia",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
+      "icon_id": "2209304",
+      "name": "添加收藏",
+      "font_class": "tianjiashoucang-1",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "3147156",
+      "name": "添加收藏",
+      "font_class": "shoucang",
+      "unicode": "e692",
+      "unicode_decimal": 59026
+    },
+    {
+      "icon_id": "5223001",
+      "name": "写",
+      "font_class": "xie",
+      "unicode": "e778",
+      "unicode_decimal": 59256
+    },
+    {
+      "icon_id": "7415231",
+      "name": "分享",
+      "font_class": "fenxiang",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "9384881",
+      "name": "点赞",
+      "font_class": "dianzan",
+      "unicode": "e503",
+      "unicode_decimal": 58627
+    },
+    {
+      "icon_id": "10530767",
+      "name": "缓存",
+      "font_class": "huancun",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    }
+  ]
+}

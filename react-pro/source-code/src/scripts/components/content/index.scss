@@ -1,0 +1,80 @@
+.body{
+  a{
+    color: inherit;
+  }
+    .space-carousel {
+      background: #DEF1E5;
+      overflow: hidden;
+    }
+    .sec{
+      margin:.3rem 0 .6rem 0;//上下的margin会重叠
+      .title{
+        .left{
+          font-size: 20px;
+          padding-left: .2rem;
+          font-weight: bolder;
+        }
+        .right{
+          padding-right: .2rem;
+          float: right;
+        }
+      }
+      .nav{
+          display: flex;
+          flex-wrap: wrap;
+          width: 100%;
+        div{
+          text-align: center;
+          width: 20%;
+          img{
+            margin-left: 20%;
+            width: 60%;
+          }
+          P{
+            font-size: 14px;
+            color: #848494;
+          }
+        }
+      }
+      .content{
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        text-align: left;
+        .area{
+          margin-top: .2rem;
+          width: 48%;
+          .img{
+            position: relative;
+            width: 100%;
+            img{
+              width: 100%;
+            }
+            .tip{
+              position: absolute;
+              right: .1rem;
+              bottom: .1rem;
+              color: white;
+              font-size: 12px;
+            }
+          }
+          .name{
+            padding-left: .2rem;
+            margin-top: .1rem;
+            
+          }
+          .jieshao{
+            padding-left: .2rem;
+            margin-top: .1rem;
+            font-size: 14px;
+            color: #848494;
+          }
+        }
+        .big{
+          width: 100%;
+        }
+      }
+      
+    }
+  
+  }

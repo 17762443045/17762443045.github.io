@@ -1,0 +1,34 @@
+.sec1{
+    width: 100%;
+    height: 1.3rem;
+    overflow: hidden;
+    background-color: #fff;
+    line-height: 1.3rem;
+    padding: .26rem .22rem;
+    .head{
+        vertical-align: middle;
+        display: inline-block;
+        width: 1rem;
+        height: 1rem;
+        border-radius: 50%;
+        overflow: hidden;
+        img{
+            width: 100%;
+            height: 100%;
+        }
+    }
+    .name{
+        display: inline-block;
+        vertical-align: middle;
+        line-height: 1;
+        margin-left: .3rem;
+        p{
+            color:#555;
+            font-size: .3rem;
+        }
+        span{
+            color:#9c9c9c;
+            font-size: .24rem;
+        }
+    }
+}

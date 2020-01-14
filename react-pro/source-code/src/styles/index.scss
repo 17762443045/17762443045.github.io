@@ -1,0 +1,27 @@
+
+
+@import "animate.css";
+@import "common";
+@import "antd-mobile.css";
+@import "./fonts/iconfont.css";
+
+$base_ft:20px;  /*no*/
+$base_color:red;
+
+html,body,.app,.main{
+    width:100vw;
+    height:100vh;
+    // padding-top: 1px;
+}
+
+* {
+    touch-action: pan-y;
+}
+
+.iconfont {
+    font-family: "iconfont" !important;
+    font-size: .4rem;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
